@@ -27,7 +27,7 @@ const products = [
   {
     id: '01',
     title: 'Chicken Burger',
-    price: 24.0,
+    price: 99.0,
     image01: product_01_image_01,
     image02: product_01_image_02,
     image03: product_01_image_03,
@@ -74,7 +74,7 @@ desc:'A burger is a popular sandwich consisting of a cooked patty, usually of gr
   {
     id: '05',
     title: 'Cheese Burger',
-    price: 24.0,
+    price: 50.0,
     image01: product_05_image_01,
     image02: product_05_image_02,
     image03: product_05_image_03,
@@ -85,7 +85,7 @@ desc:'A burger is a popular sandwich consisting of a cooked patty, usually of gr
   {
     id: '06',
     title: 'Royal Cheese Burger',
-    price: 24.0,
+    price: 60.0,
     image01: product_01_image_01,
     image02: product_01_image_02,
     image03: product_01_image_03,
@@ -133,7 +133,7 @@ desc:'A burger is a popular sandwich consisting of a cooked patty, usually of gr
   {
     id: '10',
     title: 'Classic Hamburger',
-    price: 24.0,
+    price: 40.0,
     image01: product_05_image_02,
     image02: product_05_image_01,
     image03: product_05_image_03,

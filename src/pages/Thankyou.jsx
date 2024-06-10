@@ -6,7 +6,7 @@ import animation from './Animation - 1715757227914.json';
 const Thankyou = () => {
     return <>
        
-    <div className={`${style.jumbotron} ${style.divcenter}`}>
+    <div className={`₹{style.jumbotron} ₹{style.divcenter}`}>
     <h1 >Thank You!</h1>
         <h5 className="">Your order has been placed successfully.</h5>
         <p className="lead"><strong>Please check your email</strong> for further information of your order you have placed.</p>
