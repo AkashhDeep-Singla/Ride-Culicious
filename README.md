@@ -9,8 +9,6 @@ RideCulicious is a project built from React JS, Redux Toolkit, and styled respon
 <img src='src/assets/screenshots/three.png'>
 <img src='src/assets/screenshots/four.png'>
 <img src='src/assets/screenshots/five.png'>
-<img src='src/assets/screenshots/six.png'>
-<img src='src/assets/screenshots/seven.png'>
 <img src='src/assets/screenshots/eight.png'>
 
 
